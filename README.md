@@ -1,13 +1,13 @@
 # Python Interview Questions Repository
 
-This repository contains commonly asked Python interview questions and answers. It includes a variety of questions focusing on data structures and algorithms (DSA).
+Welcome to the Python Interview Questions Repository! This collection features a curated list of commonly asked Python interview questions along with their answers. These questions cover a variety of topics, including data structures and algorithms (DSA), and are designed to help you prepare for your next interview.
 
 ## Questions
 
 ### 1. Length of Longest Consecutive Ones
 **Difficulty:** Medium
 
-**Question:** Given a binary string A. It is allowed to do at most one swap between any 0 and 1. Find and return the length of the longest consecutive 1s that can be achieved.
+**Question:** Given a binary string A, you are allowed to make at most one swap between any 0 and 1. Find and return the length of the longest consecutive 1s that can be achieved.
 
 **File:** [concecative_ones.py](concecative_ones.py)
 
@@ -73,3 +73,28 @@ This repository contains commonly asked Python interview questions and answers. 
 **Question:** Write a Python function to find the common elements in two lists.
 
 **File:** [find_common.py](find_common.py)
+
+## Repository Files
+
+Here's a quick navigation guide to the repository files:
+
+- [concecative_ones.py](concecative_ones.py) - Length of Longest Consecutive Ones
+- [fibonnaci_series.py](fibonnaci_series.py) - Fibonacci Series
+- [reverse_string.py](reverse_string.py) - Reverse a String
+- [palindrome_check.py](palindrome_check.py) - Check for Palindrome
+- [find_max.py](find_max.py) - Find the Maximum Element in a List
+- [binary_search.py](binary_search.py) - Implement Binary Search
+- [merge_sort.py](merge_sort.py) - Merge Two Sorted Lists
+- [second_largest.py](second_largest.py) - Find the Second Largest Element in a List
+- [is_sorted.py](is_sorted.py) - Check if a List is Sorted
+- [find_common.py](find_common.py) - Find the Common Elements in Two Lists
+
+## Author
+
+Hi, I'm Shreyash! You can find more about my work and contributions on my [GitHub profile](https://github.com/shreyash0019). Feel free to connect with me or check out my other projects!
+
+## Contributions
+
+Contributions are highly welcome! If you have any suggestions, improvements, or additional questions to add, please feel free to open a pull request or issue. Let's work together to make this repository a valuable resource for everyone preparing for Python interviews.
+
+Happy coding!
