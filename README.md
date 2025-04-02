@@ -89,12 +89,3 @@ Here's a quick navigation guide to the repository files:
 - [is_sorted.py](is_sorted.py) - Check if a List is Sorted
 - [find_common.py](find_common.py) - Find the Common Elements in Two Lists
 
-## Author
-
-Hi, I'm Shreyash! You can find more about my work and contributions on my [GitHub profile](https://github.com/shreyash0019). Feel free to connect with me or check out my other projects!
-
-## Contributions
-
-Contributions are highly welcome! If you have any suggestions, improvements, or additional questions to add, please feel free to open a pull request or issue. Let's work together to make this repository a valuable resource for everyone preparing for Python interviews.
-
-Happy coding!
